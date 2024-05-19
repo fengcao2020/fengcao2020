@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
+https://img.shields.io/badge/language-C_C%20plus%20plus-blue
 
-[](https://img.shields.io/badge/language-C%2FC%2B%2B-blue)
 
-https://img.shields.io/badge/language-C%2FC%2B%2B-blue
