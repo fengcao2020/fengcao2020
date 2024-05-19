@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=hello%2Cworld" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=hello%2Cworld" alt="Typing SVG" />
   </a>
 </h1>
 
+https://img.shields.io/badge/C
+https://img.shields.io/badge/C++
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=fengcao2020" /> </div>
+
