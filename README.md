@@ -20,9 +20,10 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-[https://img.shields.io/badge/language-C-blue](https://img.shields.io/badge/language-C-blue)
+<img alt="Static Badge" src="https://img.shields.io/badge/language-C%20plus%20plus-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/language-C-blue">
 
-[https://img.shields.io/badge/language-C%20plus%20plus-blue](https://img.shields.io/badge/language-C%20plus%20plus-blue)
+
 
 
 
