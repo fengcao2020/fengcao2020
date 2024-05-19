@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/language-C-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/language-C%20plus%20plus-blue">
 
+![snake](https://cdn.jsdelivr.net/gh/fengcao2020/fengcao2020@main/assets/github-contribution-grid-snake.svg)
 
 
 
